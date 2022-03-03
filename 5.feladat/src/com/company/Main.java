@@ -16,7 +16,7 @@ public class Main {
             System.out.printf("A %d a nagyobbik szám", szam1);
         }   // Ha igaz az állítás hogy nagyobb akkor kiírja a szam1-et formázottan
         else if (szam < szam1) // Ha nem igaz az elöző feltétel és nem teljesül akkor átlép a kövtkező feltételre ahol
-            // megvizsgálja hogy szam szam 1 nagyobb e mint szam.(ezt egy különben ha ág végzi)
+            // megvizsgálja hogy szam 1 nagyobb e mint szam.(ezt egy különben ha ág végzi)
         {
             System.out.printf("A %d a nagyobbik szám", szam1); // Ha igaz az állízás akkor formázottan kiírja a szam1 változót
         }
